@@ -24,4 +24,4 @@ Focused on cybersecurity, developing tools.
 WEBSITE
 https://flowerfor-cadence.vercel.app/
 
-nglmeowwww-owo-www.vercel.app/
+https://nglmeowwww-owo-www.vercel.app/
